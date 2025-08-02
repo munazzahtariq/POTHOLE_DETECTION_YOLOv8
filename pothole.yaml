@@ -1,0 +1,6 @@
+path: "C:/Users/Hp/OneDrive/Desktop/OPENCV/OPENCV PROJECTS/yolov8/DATASET_OF_YOLOv8/dataset"
+train: "C:/Users/Hp/OneDrive/Desktop/OPENCV/OPENCV PROJECTS/yolov8/DATASET_OF_YOLOv8/dataset/images/train"
+val: "C:/Users/Hp/OneDrive/Desktop/OPENCV/OPENCV PROJECTS/yolov8/DATASET_OF_YOLOv8/dataset/images/val"
+
+names:
+  0: pothole
