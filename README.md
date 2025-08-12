@@ -24,7 +24,7 @@ The model is trained to detect **potholes** using labeled datasets and can ident
 
 ---
 
-## 📂 Datasets Used
+##  Datasets Used
 The model was trained using a combination of open-source annotated datasets:
 
 - [michelpf/dataset-pothole](https://github.com/michelpf/dataset-pothole)  
