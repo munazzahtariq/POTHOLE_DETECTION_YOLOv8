@@ -50,7 +50,7 @@ POTHOLE_DETECTION_YOLOv8/
 ```
 ##Detection Results
 The model detects potholes in images as well as in video frames with high accuracy.
-A folder is provided showing detected potholes in both images and videos.
+A folder is provided showing some detected potholes in both images and videos from detected folder.
 
 ##VIDEO CREDITS
 Some testing videos are sourced from [Hole Stock Videos by Vecteezy](https://www.vecteezy.com/free-videos/hole).
